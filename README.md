@@ -74,3 +74,9 @@ def main():
         print()
 if __name__ == "__main__":
     main()
+
+👉To run the employee_reader.py program and read the information from employee.json, we need to follow the below steps:
+1.Place both the employee.json file and the employee_reader.py file in the same directory.
+2.Open a terminal or command prompt.
+3.Navigate to the directory where the files are located.
+4.Once we are in the correct directory, we can run the Python script by entering the following command: python employee_reader.py
