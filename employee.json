@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "Name": "Ajeet Singh",
+      "DOB": "1988-07-21",
+      "Height": 165,
+      "City": "New Delhi",
+      "State": "Delhi"
+    },
+    {
+      "Name": "Sambhav Suresh",
+      "DOB": "1985-10-22",
+      "Height": 170,
+      "City": "Patna",
+      "State": "Bihar"
+    },
+    {
+      "Name": "Santosh Sinha",
+      "DOB": "1992-03-10",
+      "Height": 170,
+      "City": "Gurgaon",
+      "State": "Haryana"
+    },
+    {
+      "Name": "Eram Javed",
+      "DOB": "1988-11-02",
+      "Height": 160,
+      "City": "New Delhi",
+      "State": "Delhi"
+    },
+    {
+      "Name": "Daniel Haokip",
+      "DOB": "1995-07-18",
+      "Height": 180,
+      "City": "Imphal",
+      "State": "Manipur"
+    }
+  ]
+}
