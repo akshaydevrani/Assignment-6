@@ -44,6 +44,7 @@ Assignment 1
 }
 👉Now we will create a Python program named employee_reader.py to read and process the JSON file:
 import json
+import json
 
 class Employee:
     def __init__(self, name, dob, height, city, state):
@@ -71,8 +72,10 @@ def main():
         print(f"City: {emp.city}")
         print(f"State: {emp.state}")
         print()
-if __name__ == "__main__":
+if _ _name__ == "_ _main__":
     main()
+
+
 
 👉To run the employee_reader.py program and read the information from employee.json, we need to follow the below steps:
 1.Place both the employee.json file and the employee_reader.py file in the same directory.
