@@ -71,9 +71,9 @@ def main():
         print(f"City: {emp.city}")
         print(f"State: {emp.state}")
         print()
-
 if __name__ == "__main__":
     main()
+
 👉To run the employee_reader.py program and read the information from employee.json, we need to follow the below steps:
 1.Place both the employee.json file and the employee_reader.py file in the same directory.
 2.Open a terminal or command prompt.
